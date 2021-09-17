@@ -1,10 +1,13 @@
 // Defining text characters for the empty and full hearts for you to use later.
+document.getElementById('modal').hidden = true; 
+
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
-
-
+//eventlistener for click, then invoke mimicServerCall which acts as a fetch
+//.then statemt
+//eventlistener for error and add catch 
 
 
 //------------------------------------------------------------------------------
